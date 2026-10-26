@@ -5,7 +5,7 @@
 --8<-- "includes/abbreviations.md"
 
 !!! tip
-    As a general rule of thumb, it's not a good idea to make changes directly to the `main` branch of a repository. When your working on these SOPs, we require you to create a new branch, that we can then merge into `main`.
+    As a general rule of thumb, it's not a good idea to make changes directly to the `main` branch of a repository. When you're working on these SOPs, we require you to create a new branch, that we can then merge into `main`.
 
 ![Create a branch](assets/create-branch.png){ align=left width="350"}
 
